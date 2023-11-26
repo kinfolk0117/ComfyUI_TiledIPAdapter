@@ -1,7 +1,7 @@
 
 # TiledIPAdapter
 
-Proof of concent on how to use IPAdapter to control tiled upscaling. 
+Proof of concept: how to use IPAdapter to control tiled upscaling. 
 
 You need to have https://github.com/cubiq/ComfyUI_IPAdapter_plus installed.
 
@@ -11,7 +11,7 @@ The regular IPAdapter takes the full batch of images and creates ONE conditioned
 
 The node relies on the IPAdapter code, so the same limitations apply. Images should preferably be square.
 
-To split an image into tiles and merge it again you can use the SimpleTile nodes: https://github.com/kinfolk0117/ComfyUI_SimpleTiles
+To split an image into tiles and merge it again you can use the SimpleTile nodes: https://github.com/kinfolk0117/ComfyUI_SimpleTiles 
 
 
 # Example workflow
