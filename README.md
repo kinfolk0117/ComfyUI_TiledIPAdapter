@@ -1,3 +1,5 @@
+> [!NOTE] 
+> ComfyUI_IPAdapter_plus now have an option called "unfold_batch" which seem to behave in a similar way.
 
 # TiledIPAdapter
 
