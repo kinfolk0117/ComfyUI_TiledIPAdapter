@@ -1,5 +1,5 @@
-> [!NOTE] 
-> ComfyUI_IPAdapter_plus now have an option called "unfold_batch" which seem to give similar results.
+> [!CAUTION] 
+> ComfyUI_IPAdapter_plus now have supports both tiled masks and unfolded batches of images. This project will not be maintained any more.
 
 # TiledIPAdapter
 
